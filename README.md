@@ -1,6 +1,9 @@
 # soap_php
 SOAP PHP CLIENT &amp; SERVER
 
+Thanks to:
+https://www.webcodegeeks.com/php/php-soapclient-example/
+
 ## Client
 
 Setup:
@@ -10,7 +13,10 @@ Using WAMP/MAMP:
 Apache Port: 8888
 Localhost: 127.0.0.1
 
-Test
+Test:
+
+Copy & Paste this folder into the local webserver /htdocs
+
 
 ### Insert
 
